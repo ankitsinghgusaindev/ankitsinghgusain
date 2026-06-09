@@ -4,7 +4,7 @@
 
 Passionate about building modern, scalable, and user-centric web applications that solve real-world problems. I enjoy transforming ideas into responsive, high-performance digital experiences while continuously learning new technologies and best practices.
 
-Currently focused on Frontend Development with React.js and exploring Full Stack Development with Node.js and PostgreSQL.
+Currently focused on Frontend Development with React.js and Redux Toolkit, while expanding my knowledge of PostgreSQL and database technologies.
 
 ---
 
