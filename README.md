@@ -37,18 +37,18 @@ I enjoy building responsive user interfaces, integrating backend services, solvi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-\
+
 
 
 ### Backend Development & APIs
-\
+
 - RESTful API development and third-party API integration
 - Authentication and authorization
 - HTTP-only session cookies and password hashing
 - Payment gateway integration and payment verification
 
 ### Databases
-\
+
 - Relational database design and SQL queries
 - Prisma ORM and schema migrations
 - Product variants, inventory, orders, and relational data modeling
@@ -60,7 +60,7 @@ I enjoy building responsive user interfaces, integrating backend services, solvi
 - Order processing workflows
 
 ### Testing, Cloud & Tools
-\
+
 - Jest and React Testing Library
 - Git and GitHub
 - Vercel deployment and Neon PostgreSQL
@@ -75,7 +75,7 @@ I enjoy building responsive user interfaces, integrating backend services, solvi
 
 **Status:** Production
 
-**[Live Product](https://uk-hills-overseas-frontend.vercel.app/)**
+**[Live Product](https://uk-hills-overseas-frontend.vercel.app/)** \
 **[GitHub Profile & Repositories](https://github.com/ankitsinghgusaindev)**
 
 Developed and deployed a full-stack e-commerce application with customer-facing shopping features and an administrative management system.
@@ -99,7 +99,7 @@ Developed and deployed a full-stack e-commerce application with customer-facing 
 
 **Status:** Production
 
-**[Live Product](https://my-portfolio-six-xi-sadsoycwyl.vercel.app/)**
+**[Live Product](https://my-portfolio-six-xi-sadsoycwyl.vercel.app/)** \
 **[Explore My GitHub](https://github.com/ankitsinghgusaindev)**
 
 Developed a responsive portfolio website to showcase my professional experience, technical skills, projects, education, and certifications.
